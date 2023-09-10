@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **plyght/plyght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://www.gifcen.com/wp-content/uploads/2023/07/berserk-gif-6.gif" width="500"/>
+</div>
