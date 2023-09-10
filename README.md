@@ -8,7 +8,6 @@
 - ⚡ Fun fact: I use arch linux on my 2017 Macbook pro, btw
 -->
 
-<img src="https://komarev.com/ghpvc/?plyght&style=flat-square&color=blue" alt=""/>
 
 
 
