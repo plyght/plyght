@@ -1,23 +1,17 @@
 
-<!--
-**plyght/plyght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on not too much right now, so lmk if you need help from a meh coder/dev
+- 🌱 I’m currently learning engineering
+- 👯 I’m looking to collaborate on anything, as I'm very bored atm
+- 🤔 I’m looking for help with my coding skills
+- 💬 Ask me about my code, what i'm I'm learning about, etc
+- 📫 How to reach me: +1(240)619-8466 or via email: goat.whom-0f@icloud.com
+- ⚡ Fun fact: I use arch linux on my 2017 Macbook pro, btw
 -->
-<div id="header" align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2023/07/berserk-gif-6.gif" width="500"/>
-</div>
 
 <img src="https://komarev.com/ghpvc/?plyght&style=flat-square&color=blue" alt=""/>
+
+
+
 
 Random Stats: 
 
