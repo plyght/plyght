@@ -20,5 +20,5 @@ Random Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plyght&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![](https://komarev.com/ghpvc/?username=plyght&color=grey)
 
-[![](https://komarev.com/ghpvc/?plyght)](https://komarev.com/ghpvc/?username=plyght)
