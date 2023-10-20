@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on anything, as I'm very bored atm
 - 🤔 I’m looking for help with my coding skills
 - 💬 Ask me about my code, what i'm I'm learning about, etc
-- ⚡ Fun fact: I use arch linux on my 2017 Macbook pro, btw
+- ⚡ Fun fact: I have chronic insomnia
 -->
 
 
