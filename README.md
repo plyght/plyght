@@ -8,6 +8,8 @@
 -->
 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
 
