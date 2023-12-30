@@ -2,7 +2,7 @@
 ![](https://plyght.github.io/fgdfdg.jpeg)
 
 
-Skills: JS / HTML / Swift /SwiftUI
+Skills: JS / HTML / Swift / SwiftUI
 
 - 🔭 I’m currently working on I’m currently working on not too much right now, so lmk if you need help from a meh coder/dev 
 - 🌱 I’m currently learning engineering 
