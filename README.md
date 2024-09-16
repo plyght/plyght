@@ -5,7 +5,7 @@
 Skills: JS / HTML / Swift / SwiftUI
 
 - 🔭 I’m currently working on I’m currently working on not too much right now, so lmk if you need help from a meh coder/dev 
-- 🌱 I’m currently learning engineering 
+- 🌱 I’m currently learning psychology 
 - 👯 I’m looking to collaborate on on anything, as I'm very bored atm 
 - 🤔 I’m looking for help with my coding skills 
 - 💬 Ask me about my code, what i'm I'm learning about, etc 
