@@ -12,7 +12,7 @@
 
 ┌──┤ OSINTUI ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/plyght__">𝕏</a>
+├─◈ <a href="https://twitter.com/plyght__" target="_blank">𝕏</a>
 ├─◈ <a href="https://www.youtube.com/@plyght_">YouTube</a>
 ├─◈ <a href="mailto:nico.jaffer@gmail.com">Email</a>
 ├─◈ <a href="https://www.linkedin.com/in/nicholasjaffer">LinkedIn</a>
