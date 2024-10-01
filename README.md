@@ -1,16 +1,45 @@
-### Hi there 👋, my name is plyght
-![](https://plyght.github.io/fgdfdg.jpeg)
+<pre>
 
+  ___   _      ___   _      ___   _      ___   _      ___   _
+ [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
+  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
+ /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
+       |____________|____________|____________|____________|
+                             |            |            |
+                         ___  \_      ___  \_      ___  \_
+                        [(_)] |=|    [(_)] |=|    [(_)] |=|
+                         '-`  |_|     '-`  |_|     '-`  |_|
+                        /mmm/        /mmm/        /mmm/
 
-Skills: JS / HTML / Swift / SwiftUI
+┌──┤ ECHO $USER ├─────────▰▰▰
+│
+├─▣ plyght
+├─▣ student
+├─▣ dev-in-training
+├─▣ Involved w/ <a href="https://tks.world">TKS</a>
+│
+└───────────────────────────────▰▰▰
 
-- 🔭 I’m currently working on I’m currently working on not too much right now, so lmk if you need help from a meh coder/dev 
-- 🌱 I’m currently learning psychology 
-- 👯 I’m looking to collaborate on anything, as I'm very bored atm 
-- 🤔 I’m looking for help with my coding skills 
-- 💬 Ask me about my code, what I'm I'm learning about, etc 
-- 📫 How to reach me: email me @ chimp.00skiers@icloud.com 
-- ⚡ Fun fact:  I have chronic insomnia
+┌──┤ OSINTUI ├─────────▰▰▰
+│
+├─◈ <a href="https://twitter.com/plyght__">𝕏</a>
+├─◈ <a href="https://www.youtube.com/@plyght_">YouTube</a>
+├─◈ <a href="mailto:nico.jaffer@gmail.com">Email</a>
+├─◈ <a href="https://www.linkedin.com/in/nicholasjaffer">LinkedIn</a>
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/thewhiteh4t/seeker">Seeker</a>
+├─◈ <a href="https://github.com/thewhiteh4t/FinalRecon">FinalRecon</a>
+├─◈ <a href="https://github.com/thewhiteh4t/nexfil">NExfil</a>
+├─◈ <a href="https://github.com/thewhiteh4t/pwnedornot">pwnedOrNot</a>
+├─◈ <a href="https://github.com/thewhiteh4t/killcast">KillCast</a>
+├─◈ <a href="https://github.com/thewhiteh4t/flashsploit">FlashSploit</a>
+│
+└───────────────────────────────▰▰▰
+</pre>
 
 <a href="https://www.buymeacoffee.com/plyght" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
