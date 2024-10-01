@@ -16,6 +16,7 @@
 ├─◈ <a href="https://www.youtube.com/@plyght_">YouTube</a>
 ├─◈ <a href="mailto:nico.jaffer@gmail.com">Email</a>
 ├─◈ <a href="https://www.linkedin.com/in/nicholasjaffer">LinkedIn</a>
+├─◈ <a href="https://www.buymeacoffee.com/plyght">Buy Me A Coffee</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -105,15 +106,5 @@ BankstA ˘ thugsta ˘ tornado ˘ Tre`-KeWL ˘                ﬁ≤€≤‹‹�
  ± ∞      ‹‹ﬂﬂ             IRC Security                €∞€ ﬂﬂ‹‹  ﬂﬂ≤≤±∞‹‹‹ ∞ ±
  ≤ ±    ‹≤ﬂ verse ˘ krzee ˘ hydro311 ˘ dvs ˘ Euched   ±∞±∞€ﬁ› ﬂ€≤‹  ±  ﬂﬂﬂ ± ≤
  € ≤   ≤€€› corrupt ˘ Pheonix ˘ OS1r1s ˘ KmartCwBy             ﬁ€€≤        ≤ €
-
 </pre>
-
-<a href="https://www.buymeacoffee.com/plyght" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plyght&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=plyght&show_icons=true&theme=dark)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=plyght&theme=dark)  
