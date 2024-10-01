@@ -15,7 +15,6 @@ Skills: JS / HTML / Swift / SwiftUI
 <a href="https://www.buymeacoffee.com/plyght" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/plyght)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCvpdv0TzX8N8-hP8RnIr2bg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://plyght.github.io)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plyght&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
