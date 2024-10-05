@@ -23,6 +23,7 @@
 ┌──┤ Z ~/PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/plyght/peril.lol">peril.lol</a>
+├─◈ <a href="https://github.com/plyght/blog.peril.lol">blog.peril.lol</a>
 │
 └───────────────────────────────▰▰▰
 
