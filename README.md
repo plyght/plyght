@@ -24,6 +24,7 @@
 │
 ├─◈ <a href="https://github.com/plyght/peril.lol">peril.lol</a>
 ├─◈ <a href="https://github.com/plyght/blog.peril.lol">blog.peril.lol</a>
+ ├─◈ <a href="https://github.com/plyght/getloop.dev">getloop.dev</a>
 │
 └───────────────────────────────▰▰▰
 
