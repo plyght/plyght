@@ -7,6 +7,7 @@
 ├─▣ student
 ├─▣ dev-in-training
 ├─▣ involved w/ <a href="https://tks.world">TKS</a>
+├─▣ email me @ <a href="mailto:plyght@peril.lol">plyght@peril.lol</a>
 │
 └───────────────────────────────▰▰▰
 
