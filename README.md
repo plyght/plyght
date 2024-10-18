@@ -7,7 +7,6 @@
 ├─▣ student
 ├─▣ dev-in-training
 ├─▣ involved w/ <a href="https://tks.world">TKS</a>
-├─▣ email me @ <a href="mailto:plyght@peril.lol">plyght@peril.lol</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -15,7 +14,7 @@
 │
 ├─◈ <a href="https://twitter.com/plyght__" target="_blank">𝕏</a>
 ├─◈ <a href="https://www.youtube.com/@plyght_">YouTube</a>
-├─◈ <a href="mailto:nico.jaffer@gmail.com">Email</a>
+├─◈ <a href="mailto:plyght@peril.lol">Email</a>
 ├─◈ <a href="https://www.linkedin.com/in/nicholasjaffer">LinkedIn</a>
 ├─◈ <a href="https://www.buymeacoffee.com/plyght">Buy Me A Coffee</a>
 │
