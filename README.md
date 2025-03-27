@@ -14,7 +14,7 @@
 │
 ├─◈ <a href="https://www.youtube.com/@plyght_">YouTube</a>
 ├─◈ <a href="mailto:plyght@peril.lol">Email</a>
-├─◈ <a href="https://www.linkedin.com/in/nicholasjaffer">LinkedIn</a>
+├─◈ <a href="https://www.producthunt.com/@plyght">ProductHunt</a>
 ├─◈ <a href="https://www.buymeacoffee.com/plyght">Buy Me A Coffee</a>
 │
 └───────────────────────────────▰▰▰
