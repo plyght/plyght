@@ -56,4 +56,4 @@
            @@@@                                 @@@@@@                                               
            =@@@                                   @@@                                                                                                             
 </pre>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=plyght&show_icons=true&theme=dark)  
+![Pixel Stats](https://pixel-profile.vercel.app/api/github-stats?username=plyght)  
