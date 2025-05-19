@@ -56,4 +56,4 @@
            @@@@                                 @@@@@@                                               
            =@@@                                   @@@                                                                                                             
 </pre>
-![Pixel Stats](https://pixel-profile.vercel.app/api/github-stats?username=plyght&dithering=true)  
+![](https://pixel-profile.vercel.app/api/github-stats?username=plyght&dithering=true)  
