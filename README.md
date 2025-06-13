@@ -6,7 +6,7 @@
 ├─▣ plyght
 ├─▣ student
 ├─▣ dev-in-training
-├─▣ involved w/ <a href="https://tks.world">TKS</a>
+├─▣ <a href="https://tks.world">TKS</a> alumni
 │
 └───────────────────────────────▰▰▰
 
