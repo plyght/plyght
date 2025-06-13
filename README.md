@@ -22,8 +22,8 @@
 ┌──┤ Z ~/PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/plyght/peril.lol">peril.lol</a>
-├─◈ <a href="https://github.com/plyght/LibraryTracker">LibraryTracker</a>
-├─◈ <a href="https://github.com/plyght/cohere-cli">Cohere CLI</a>
+├─◈ <a href="https://github.com/plyght/skew">skew</a>
+├─◈ <a href="https://github.com/plyght/spine">spine</a>
 │
 └───────────────────────────────▰▰▰
                                
