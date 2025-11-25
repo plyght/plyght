@@ -1,32 +1,4 @@
-<pre>
-
-
-┌──┤ ECHO $USER ├─────────▰▰▰
-│
-├─▣ plyght
-├─▣ student
-├─▣ dev-in-training
-├─▣ <a href="https://tks.world">TKS</a> alumni
-│
-└───────────────────────────────▰▰▰
-
-┌──┤ OSINTUI ├─────────▰▰▰
-│
-├─◈ <a href="https://www.youtube.com/@plyght_">YouTube</a>
-├─◈ <a href="mailto:plyght@peril.lol">Email</a>
-├─◈ <a href="https://www.producthunt.com/@plyght">ProductHunt</a>
-├─◈ <a href="https://www.buymeacoffee.com/plyght">Buy Me A Coffee</a>
-│
-└───────────────────────────────▰▰▰
-
-┌──┤ Z ~/PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/plyght/peril.lol">peril.lol</a>
-├─◈ <a href="https://github.com/plyght/skew">skew</a>
-├─◈ <a href="https://github.com/plyght/spine">spine</a>
-│
-└───────────────────────────────▰▰▰
-                               
+<pre>                              
                        @@@                                                                           
               @@       @ @    +@=                                                                    
             @@@@@@   @@ @@   @@@@                                                                    
@@ -56,4 +28,3 @@
            @@@@                                 @@@@@@                                               
            =@@@                                   @@@                                                                                                             
 </pre>
-![](https://pixel-profile.vercel.app/api/github-stats?username=plyght&dithering=true)  
